@@ -23,6 +23,10 @@
 - Discord: KuonRuri#4704  
   - Twitterに次いで確認しています。  
   - Twitterでは難しい連絡はこちらにどうぞ。  
+- [GitHub](https://github.com/KuonRuri)  
+  - 個人的に必要なデータを保存しています。  
+  - パブリックのレポジトリもありますが、第三者が利用する事を想定していません。  
+  - これから活動していきたいな〜とは思っています。  
 ## Backup  
 - [Misskey](https://misskey.io/@KuonRuri)  
   - Twitterがお亡くなりになったときの移行候補1です。
