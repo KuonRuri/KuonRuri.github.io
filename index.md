@@ -2,7 +2,6 @@
 ## About me  
 
 - 名前: くおんるり(るりって呼んでね)  
-- 区分: 学生  
 - 言語:  
   - C  
   - C++  
@@ -10,6 +9,7 @@
 - 興味: セキュリティやプログラミング  
 - 趣味:  
   - CTF  
+    - CpawCTF 全完(WriteUpは結構見て解きました)  
   - 競技プログラミング  
     - [AtCoder](https://atcoder.jp/users/kuonruri) 茶色  
 - 資格:  
@@ -23,18 +23,16 @@
 - [Twitter](https://twitter.com/KuonRuri)  
   - 最も利用しているSNSです。  
   - 恐らく最も早く反応できます。  
+- [Misskey](https://misskey.io/@KuonRuri)  
+  - Twitterがお亡くなりになったらここにいます。
 - Discord: KuonRuri#4704  
   - Twitterに次いで確認しています。  
   - Twitterでは難しい連絡はこちらにどうぞ。  
-- [GitHub](https://github.com/KuonRuri)  
-  - 個人的に必要なデータを保存しています。  
-  - パブリックのレポジトリもありますが、第三者が利用する事を想定していません。  
-  - これから活動していきたいな〜とは思っています。  
+- [GitHub](https://github.com/KuonRuri)   
+  - 個人開発のため以外に利用したことがないので、これから活動していきたいです。  
+  - _OSSに興味があったり..._  
   
 ### Backup  
 
-- [Misskey](https://misskey.io/@KuonRuri)  
-  - Twitterがお亡くなりになったときの移行候補1です。
-  - ~~個人的にUIがMastdonより好きだけど、Mastdonの方が人気っぽい？~~  
 - [Mastdon](https://mstdn.jp/web/@KuonRuri)  
-  - 移行候補2です。
+  - 念のためアカウントだけ作りましたが、全く活動していません。
