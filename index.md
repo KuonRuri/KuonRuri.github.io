@@ -13,7 +13,7 @@
 ### 趣味  
 #### CTF  
 
-- CpawCTF 全完(WriteUpのおかげです)  
+- CpawCTF 全完  
     
 #### 競技プログラミング  
 
